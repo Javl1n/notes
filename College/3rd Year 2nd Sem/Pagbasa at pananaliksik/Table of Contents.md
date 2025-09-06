@@ -1,0 +1,15 @@
+# Table of Contents
+1. Lesson 1 - [[Wika]]
+	1. [[Wika#Katangian ng Wika|Katangian ng Wika]]
+	2. [[Wika#Layunin ng wika|Layunin ng wika]]
+	3. [[Wika#Papel ng Wika sa pagkatuto|Papel ng Wika sa pagkatuto]]
+	4. [[Wika#Wika bilang KODA|Wika bilang KODA]]
+2. Lesson 1.5 - [[Komunikasyon]]
+	1. [[Wika#Katangian ng Komunikasyon|Katangian ng Komunikasyon]]
+	2. [[Wika#Layunin ng Komunikasyon|Layunin ng Komunikasyon]]
+	3. [[Wika#Papel ng Komunikasyon|Papel ng Komunikasyon]]
+3. Lesson 2 - [[Register]]
+4. Lesson 3 - [[Mga Teorya sa Pagbasa]]
+5. Lesson 4 - [[Mga Pilosopiya ng mga Griyego at ng mga makabagong pilosopo]]
+6. Lesson 5 - [[Ang Pagbasa]]
+7. 

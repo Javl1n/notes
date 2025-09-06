@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "3876303e8be0ed2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "659851738dcc2ec0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc60d5013bdd7153",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Development/Projects/Startup Competition 2025/EduMon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EduMon"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59f9107cceb75be8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4459dff31ccda1a8",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "fac9238f4c48d530",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "43ca84820bcf9225",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "1fda856dcd88a85b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "040d077f21a3eb02",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f4fad77ef77e331d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Development/Projects/CHED OJT Onboarding and Database Management System.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "a8ca67f4467f039f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "fd06c0aea89ae499",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cc60d5013bdd7153",
+  "lastOpenFiles": [
+    "Development/Projects/CHEEP System Update.md",
+    "Development/Projects/Startup Competition 2025/EduMon.md",
+    "Sermons and Church/Sermon Notes/2025/February/1st Sunday.md",
+    "Development/Web Designs/Web Design For Beginners - Free Course.md",
+    "College/3rd Year 2nd Sem/Security Assurance/April 2.md",
+    "Sermons and Church/Sermon Notes/2025/February/2nd Sunday.md",
+    "Note.md",
+    "Development/Web Designs/6 Stages of UI.md",
+    "Development/Projects/Presscue/Dev Logs/Mobile App.md",
+    "College/3rd Year 2nd Sem/Pagbasa at pananaliksik/Table of Contents.md",
+    "Personal/Workout/Workout plan 2.md",
+    "Personal/Notes/Crypto Trading.md",
+    "Music/Nostalgia Progression.md",
+    "Development/Setups/WSL Setup.md",
+    "Development/Projects/Presscue/Database.md",
+    "College/3rd Year 2nd Sem/History/Martial Law Myth Reflection Paper.md",
+    "Sermons and Church/Spiritual Enhancement/Lesson 4.md",
+    "Sermons and Church/Spiritual Enhancement",
+    "Development/Web Designs/Design Briefing.md",
+    "Development/Projects/CHED OJT Onboarding and Database Management System.md",
+    "College/3rd Year 2nd Sem/Pagbasa at pananaliksik/Mga Pilosopiya ng mga Griyego at ng mga makabagong pilosopo.md",
+    "Sermons and Church/Pastor Romel Sermons/Assurance for Salvation/Ai MD convert.md",
+    "Personal/Workout/Bench Press.md",
+    "College/3rd Year 2nd Sem/Contemporary World/Lesson 7 Report.md",
+    "Development/Projects/Presscue/Cost Estimation.md",
+    "Development/Projects/New Hope TV Web/Budget Estimation.md",
+    "College/3rd Year 2nd Sem/Pagbasa at pananaliksik/Ang Pagbasa.md",
+    "Development/Setups",
+    "Development/Projects/New Hope TV Web/Dev Logs",
+    "Development/Projects/New Hope TV Web",
+    "Sermons and Church/Sermon Notes/2025/desktop.ini",
+    "Personal/codes",
+    "Personal/Workout",
+    "Development/Projects/Concert Ticketing",
+    "Development/Programming",
+    "Music"
+  ]
+}

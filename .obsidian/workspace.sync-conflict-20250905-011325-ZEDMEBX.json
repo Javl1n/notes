@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "1fbded29bcce05c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "06e6447e587c684c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "438053efa2340602",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Development/Projects/HarvestCrop.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HarvestCrop"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad152b145544ae7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4953ec2ac3fb0262",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71b2b06d312f9ac1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "96cf87c8cce4c8e4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "1229f0d793aeeb20",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0dd76fa489c76616",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 304.501522064209
+  },
+  "right": {
+    "id": "cae4bec22e7452c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "cebe697bba7a4cfb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d7de66336bf4fff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily Notes/November 09, 2024.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for November 09, 2024"
+            }
+          },
+          {
+            "id": "068a001d0ad244cd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily Notes/November 09, 2024.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from November 09, 2024"
+            }
+          },
+          {
+            "id": "f1dd55e9bb22f01f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b00438d023e98b0e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily Notes/November 09, 2024.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of November 09, 2024"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "header-adjuster:Adjust Headers": false
+    }
+  },
+  "active": "438053efa2340602",
+  "lastOpenFiles": [
+    "Development/Projects/CHED OJT Onboarding and Database Management System.md",
+    "Development/Projects/HarvestCrop.md",
+    "Development/Projects/Siblo - Startup Competition 2025/Video Script.md",
+    "Development/Projects/Siblo - Startup Competition 2025/BMC.md",
+    "Development/Projects/Siblo - Startup Competition 2025/Untitled",
+    "Development/Projects/Siblo - Startup Competition 2025/Overview.md",
+    "Development/Game Dev/Godot Tutorial.md",
+    "Gaming/Pokemon/Insurgence Team Comp.md",
+    "Development/Game Dev",
+    "Development/Untitled.md",
+    "Development/Setups/WSL Setup.md",
+    "Development/Setups/Laravel Setup.md",
+    "Personal/codes/PLDT HOME.md",
+    "Personal/codes/Crafty Backup codes.md",
+    "Development/Projects/Scheduling System/Title Proposal Ideas for Features.md",
+    "Development/Projects/Siblo - Startup Competition 2025",
+    "Gaming/Pokemon/Untitled.md",
+    "Sermons and Church/Papa Sermons/August 3, 2025.md",
+    "Gaming/Pokemon",
+    "Gaming",
+    "Development/Projects/Presscue/Dev Logs/Desktop App.md",
+    "Personal/codes",
+    "Development/Projects/Presscue/Dev Logs/Mobile App.md",
+    "Development/Projects/Presscue/Dev Logs/Web.md",
+    "Development/Projects/Presscue/Dev Logs/System Admin Routes.md",
+    "Personal/Plans & Goals/Goals.md",
+    "Personal/Plans & Goals/My strategies to success.md",
+    "Personal/Plans & Goals/My Solo Web Developer Plan.md",
+    "Personal/Plans & Goals/Skills and Jobs.md",
+    "Sermons and Church/Pastor Romel Sermons/The Gospel Changes Us/Raw.md",
+    "Sermons and Church/Pastor Romel Sermons/The Gospel Changes Us/Revised.md",
+    "Sermons and Church/Pastor Romel Sermons/The Gospel Changes Us",
+    "Development/Projects/Youth Hive Attendance App.md",
+    "Sermons and Church/Pastor Romel Sermons/Assurance for Salvation",
+    "Sermons and Church/Pastor Romel Sermons",
+    "Untitled.canvas",
+    "Personal/Plans & Goals",
+    "Pasted image 20240105224743.png",
+    "Pasted image 20240105224729.png",
+    "Pasted image 20240105223523.png",
+    "Pasted image 20240105223407.png",
+    "Pasted image 20240105223350.png",
+    "Pasted image 20240105223336.png",
+    "Pasted image 20240105223301.png",
+    "Pasted image 20240105224702.png",
+    "Pasted image 20240105223508.png",
+    "Pasted image 20240105223431.png"
+  ]
+}

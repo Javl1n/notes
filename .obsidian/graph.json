@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:College  ",
+      "color": {
+        "a": 1,
+        "rgb": 2344224
+      }
+    },
+    {
+      "query": "path:Development  ",
+      "color": {
+        "a": 1,
+        "rgb": 7626967
+      }
+    },
+    {
+      "query": "path:\"Sermons and Church\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16772654
+      }
+    },
+    {
+      "query": "path:Personal  ",
+      "color": {
+        "a": 1,
+        "rgb": 1467390
+      }
+    },
+    {
+      "query": "path:Music  ",
+      "color": {
+        "a": 1,
+        "rgb": 12942358
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0.8,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1.65445423855964,
+  "collapse-forces": false,
+  "centerStrength": 0.662321830457614,
+  "repelStrength": 12.4062265566392,
+  "linkStrength": 1,
+  "linkDistance": 159,
+  "scale": 0.6614559574506752,
+  "close": true
+}

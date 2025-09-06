@@ -1,0 +1,71 @@
+1. Teachers
+	-  Dashboard
+		- Student Data Graphs
+		- Student tracking
+		- Active Students
+	- Quizzes
+		- upload lesson
+		- ai summarization
+		- Quiz Generation
+	- Classes
+		- management of classes
+		- View students each class
+			- Career Paths and Evaluation
+		- Participation Session
+			- diri tung murag mag add points sa students if mag oral recite sila
+	- Analytics
+		- Student Progress Tracking
+		- Evaluations
+2. Students
+	- Adventure
+		- naay like, home place or school, kay ang setting man naay academy sa island
+		- through out sa island naay mga towns, or checkpoints para:
+			- maka heal
+				- Station giapon, like a green house
+			- palit resources
+			- interact npc
+		- through out sa map, naay mga npc na pwede nimo ma battle.
+			- mga npc na monsters naa sila
+			- if mapildi naay coins or money makuha ang player
+	- Battle
+		- turn base
+			- para simple, turn base nalang
+			- add complexity sa type of moves
+		- walay experience makuha sa pag battle, pero money
+		- wild pokemon battle:
+			- iweaken nila para ma capture
+			- mode sa pag capture: Books
+				- naay basic book
+				- mas better na book, idk pa sa name
+				- mas even better na book
+				- basta book ang "pokeball"
+	- Siblo
+		- could be called siblons
+		- naay starter siblo, in which they will get after taking a test, personality or preferences...
+			- pwede pud seed ilang una makuha, then mag take sila test para mu sprout to nga seed
+		- kay diba sprout man ang theme nato, imbes na egg ang sugod nila, seed nalang
+			- pero not necessarily plant like tanan siblo
+		- Experience Points mechanics:
+			- naay station through out the world, muadto sila didto para mag kuha experience points
+			- pwede tree ang design sa station
+		- Evolution and Growth
+			- mag evolve ang starter siblon base sa asa siya lamang sa iyang scores
+				- math
+				- science
+				- etc.
+			- pero ang other siblons isa lang ang evolution
+			- Instead of Evolution, Growth
+				- Nuevo grew into Neoval
+		- Moves
+			- naay certain levels ang siblos, na pwede sila maka learn ug move gikan sa ilang movepool
+				- example: level 16 maka learn ang isa ka siblon ug "sprout spike"
+			- maximum 4 moves lang ilang ma learn
+			- starter:
+				- lahi ang movepool depende sa iya growth
+			- others:
+				- may defined movepools
+3. Parents
+	- App to track the progress of their children
+	- iregister sa teacher ang parents ug ang child
+		- example: kani nga student mao ni iyang parent, etc.
+	- track score, growth, evaulation, career paths
